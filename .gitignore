@@ -1,7 +1,6 @@
 assets/
 
 *.pt
-*.py
 
 main_legacy.ipynb
 main.py
